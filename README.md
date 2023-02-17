@@ -1,7 +1,9 @@
 # zouk_training_app_ml
 Machine Learning codes and servers for the Zouk Training App.
 
-Code:
+## Content
+
+### Code
 - POSE_ESTIMATION: Extract 3D Pose Estimation from video frames for student and teacher (MediaPipe inferences -- Supervised)
 - DYNAMICAL_FEATURES: Extract Dynamical Features from Pose data (Data Engineering)
 - MOVEMENT_TRAINING: Learn the teacher's movement (K-Means clustering -- Unsupervised Learning)
@@ -11,3 +13,7 @@ Code:
 - FEEDBACK: Feedback on movement
 - PIPELINES: Code pipelines
 - SERVERS: Servers for the pipelines.
+
+### Run
+
+### Build
